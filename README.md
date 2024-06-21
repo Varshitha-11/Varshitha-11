@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi  👋
  My name is Varshitha 
 - 🌱 I’m currently learning masters in computer science
 
