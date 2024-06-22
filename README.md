@@ -6,8 +6,6 @@ I'm Varshitha, currently pursuing my Master's in Computer Science 🎓. I have a
 
 👩‍💻 **Projects:** I enjoy working on projects that challenge me and help me grow as a developer. Check out some of my work here: [link to your projects or portfolio].
 
-📫 **Get in touch:** Feel free to connect with me on [LinkedIn](your-linkedin-profile) or [Twitter](your-twitter-profile).
-
 Looking forward to connecting with fellow developers and enthusiasts! Let's collaborate and learn together. 😊
 
 
